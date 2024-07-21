@@ -48,3 +48,5 @@ elif a:
     print("You Win!")
 else:
     print("You Lose!")
+
+    # Game Over
