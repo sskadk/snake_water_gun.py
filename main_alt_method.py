@@ -39,3 +39,12 @@ else:
 
     else:
         print("Something went wrong!")
+
+'''
+Alternative Mathematical pattern method
+
+if((computer - you) == -1 or  (computer - you) == 2 ):
+        print("You lose!")
+    else:
+        print("You win!") 
+'''
