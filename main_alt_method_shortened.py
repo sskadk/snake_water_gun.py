@@ -45,3 +45,5 @@ else:
         print("You lose!")
     else:
         print("You win!") 
+#Above conditions are wwritten by analyzing mathematical patterns(computer-you)
+#Which works but is not understandable and descriptable...
