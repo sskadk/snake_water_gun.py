@@ -50,3 +50,4 @@ else:
     print("You Lose!")
 
 # Game Over
+#There are also two alternative method by following which this game can be coded. For better understanding, You can also explore them.
