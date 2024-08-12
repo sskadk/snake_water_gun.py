@@ -8,7 +8,6 @@ def gameWin(comp, you):
         return None
 
     # Check for all possibilities when computer chose s
-    
     elif comp == 's':
         if you=='w':
             return False
