@@ -1,9 +1,11 @@
 import random
+
 '''
 1 for snake
 -1 for water 
 0 for gun
 '''
+
 computer = random.choice([-1, 0, 1])
 youstr = input("Enter your choice: ")
 youDict = {"s": 1, "w": -1, "g": 0}
@@ -45,5 +47,6 @@ else:
         print("You lose!")
     else:
         print("You win!") 
+        
 #Above conditions are wwritten by analyzing mathematical patterns(computer-you)
 #Which works but is not understandable and descriptable...
