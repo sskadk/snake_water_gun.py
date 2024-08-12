@@ -1,5 +1,4 @@
 # Snake Water Gun or Rock Paper Scissors
-
 import random    # --> Importing Random Module
 
 def gameWin(comp, you):
